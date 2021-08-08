@@ -33,6 +33,9 @@ section {
   -webkit-box-shadow: 16px 16px 29px #898989, -16px -16px 29px #ffffff;
           box-shadow: 16px 16px 29px #898989, -16px -16px 29px #ffffff;
   padding: 0 1em 0 1em;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .user-info {
